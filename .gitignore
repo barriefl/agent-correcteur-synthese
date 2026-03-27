@@ -1,0 +1,13 @@
+# Cache Python.
+__pycache__/
+*.pyc
+
+# Environnements virtuels.
+.venv/
+venv/
+env/
+
+# Dossier de données et fichiers temporaires.
+data/
+temp.zip
+*.xlsx
